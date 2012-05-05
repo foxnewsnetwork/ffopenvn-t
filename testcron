@@ -1,0 +1,1 @@
+* * * * * env > /tmp/env.output

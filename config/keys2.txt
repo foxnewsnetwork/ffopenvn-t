@@ -1,0 +1,5 @@
+# twitter secret and keys
+key: l2t5spTbhpSaTsjE03YbEw
+secret: lXEFQTKhzQVQhU7OGgsP2imrkEv7CkSyUjBuq7dl5fo
+token: 68781341-TkNrPHXIg1bGfRLOrlDeSI8HPq86iPaXn8l5UWUAs
+token_secret: C0Gr4hZHnnzLkkcFwSpLUYFvKNYiSS8ZzD50FCko

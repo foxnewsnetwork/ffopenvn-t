@@ -1,0 +1,10 @@
+# the rpp number in twitter's search API
+search_limit: 100
+
+# hashtag at the end
+tag: #spellpolice
+
+# newest or oldest, determines, during a search, which point is the cut off
+# useful for testing
+# ALWAYS use newest for production to prevent repeat posts
+start_point: newest

@@ -1,0 +1,4 @@
+MAILTO=foxnewsnetwork@gmail.com
+*/15 * * * * /opt/bitnami/ruby/bin/ruby /home/bitnami/twitter_spelling_bot/spambot.rb
+
+

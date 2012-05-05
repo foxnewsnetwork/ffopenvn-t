@@ -1,0 +1,7 @@
+Make sure file is executable with chmod +x <file>
+
+Make sure cron file uses full path for both command and script. like opt/bitnami/ruby/bin/ruby /home/bitnami/<file>  or whatever
+
+
+use ruby clean_datafiles.rb to clean the txt files
+use ruby make_word_record.rb clean text record
